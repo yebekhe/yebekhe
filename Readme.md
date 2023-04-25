@@ -1,4 +1,4 @@
-### Hi, I'm YeBeKhe! ![icon-verified](https://img.icons8.com/color/48/verified-account--v1.png)
+### Hi, I'm YeBeKhe! ![icon-verified](https://img.icons8.com/color/25/verified-account--v1.png)
 
 ### Welcome to my <img src="https://img.icons8.com/color/96/000000/github--v1.png" height="24"/> GitHub Profile
 <!--
